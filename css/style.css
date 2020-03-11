@@ -1,7 +1,7 @@
-body{
-    background: rgb(231, 231, 231);
-}
-
 .col-6 p{
     margin-right: 10%;
+}
+
+.col-6{
+    margin-top: 2em;
 }
